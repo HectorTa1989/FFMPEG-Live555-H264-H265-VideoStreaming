@@ -1,4 +1,4 @@
-# FFMPEG-Live555-H264-H265-Streamer
+# FFMPEG-Live555-H264-H265-VideoStreaming
 H264, H265 and more Encoder and Multicast/Unicast Streamer (example of how to use Live555 and FFMPEG). A threaded class for H264 and H265 streaming in Visual Studio using FFMPEG and LIVE555
 
 ## Credits
